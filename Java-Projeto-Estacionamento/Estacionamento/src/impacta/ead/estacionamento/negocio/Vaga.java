@@ -17,7 +17,7 @@ public class Vaga {
 	 *@return true se houver alguma vaga e false se estiver lotado. 
 	 **/
 	
-	public boolean temVagaLivre() {
+	public static boolean temVagaLivre() {
 		//TODO implementar este metodo.
 		return false;
 	}
